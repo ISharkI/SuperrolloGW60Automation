@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "TLP504A"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Dual Optocoupler"
+    ],
+    "entity": "3f0ec6ec-d9bd-4883-8c57-e2f3929f3538",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Toshiba"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "50fbb085-e3f7-4537-b664-8af8746fd763",
+    "pad_map": {
+        "52651243-dd39-42e4-8d4b-e641e9ac1592": {
+            "gate": "cd0bb687-a0e0-4145-a9ed-accb8dac174c",
+            "pin": "01caab95-5fea-416a-90e2-b1decc1f65a8"
+        },
+        "59545c06-c837-445b-b189-2cf33c24733b": {
+            "gate": "cd0bb687-a0e0-4145-a9ed-accb8dac174c",
+            "pin": "350296dd-83e3-472a-9526-17be7bff5019"
+        },
+        "6955c92c-306e-44d0-a242-f1ff5053bfbe": {
+            "gate": "cd927132-5fb6-44ef-abd5-17923d9721e1",
+            "pin": "5e5d0c57-67f4-48cb-9852-9cdaa907efaf"
+        },
+        "a10df22e-b6f3-4dab-98c1-f74af26fb9cf": {
+            "gate": "cd927132-5fb6-44ef-abd5-17923d9721e1",
+            "pin": "350296dd-83e3-472a-9526-17be7bff5019"
+        },
+        "aade920d-833f-4069-8580-268a7f93d256": {
+            "gate": "cd927132-5fb6-44ef-abd5-17923d9721e1",
+            "pin": "279c04f7-b66a-44cb-8e17-8b100c3f826c"
+        },
+        "d2117e67-d791-446b-a9e8-27e7e96bcef8": {
+            "gate": "cd0bb687-a0e0-4145-a9ed-accb8dac174c",
+            "pin": "279c04f7-b66a-44cb-8e17-8b100c3f826c"
+        },
+        "e3294711-3923-48a8-80d3-3121ca0c7cc1": {
+            "gate": "cd0bb687-a0e0-4145-a9ed-accb8dac174c",
+            "pin": "5e5d0c57-67f4-48cb-9852-9cdaa907efaf"
+        },
+        "fc322522-4df0-4332-8691-d02e382323fb": {
+            "gate": "cd927132-5fb6-44ef-abd5-17923d9721e1",
+            "pin": "01caab95-5fea-416a-90e2-b1decc1f65a8"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "cb1d8c24-4d71-4a3c-b810-c1b9a7aff6cd",
+    "value": [
+        false,
+        ""
+    ]
+}

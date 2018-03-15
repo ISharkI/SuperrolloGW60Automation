@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "8x1 2.54mm straight pin header"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "771a429f-983f-4758-b6d4-80e107ae9f8e",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b0cddfb2-c1bf-4f0d-bb54-c30b552e6794",
+    "pad_map": {
+        "093a4196-17c2-4c36-9433-973f421c4c4d": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "01ff6735-94f0-415a-9ce6-55b0515c1cd1"
+        },
+        "17e9ce5a-f217-4c32-9552-d4358ca4ec6f": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "3256695a-0b7e-4ed5-a6e6-4f9afb354f54"
+        },
+        "8f3fd367-2fa0-4ea6-82cb-2e203cc390cd": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e95ff9ae-5dce-4a5d-bc8a-158c688b9a0e"
+        },
+        "b4977d5c-6931-4faf-9491-5372bc0c2011": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e137d258-e055-4644-b9a5-fad874553ddf"
+        },
+        "d8d7f8b7-755e-4731-b180-c3a7e26e3fc5": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "65a73301-97c0-40b6-8138-4fcd12815dc0"
+        },
+        "e7bbd1af-f569-4f38-8f8b-0b1b1cd3a878": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "394fe994-72b0-4e01-9a0b-c463902d55e8"
+        },
+        "f3fbf426-addb-4e4c-b62d-40295a537004": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "1a7a9b72-a0d1-4ee1-91f9-45265c2b41bb"
+        },
+        "fc4e8f36-0b23-469e-bc1d-c77bda82ea20": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "fa73ec1a-10bc-4280-aa96-1b222e566826"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "22f47bd3-a0fd-4ebd-ae39-2f42d21f112a",
+    "value": [
+        false,
+        ""
+    ]
+}

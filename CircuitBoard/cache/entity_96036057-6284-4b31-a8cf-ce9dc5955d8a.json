@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "a53f8641-09f0-4831-8ea1-3adeb3bd75bc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d5a95aa5-8f3b-41a0-bae4-ecdcc49de981"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic Button",
+    "prefix": "",
+    "tags": [],
+    "type": "entity",
+    "uuid": "96036057-6284-4b31-a8cf-ce9dc5955d8a"
+}

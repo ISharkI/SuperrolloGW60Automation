@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "LMS78_xx"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Wide Input Non-Isolated DC/DC Converter"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Gaptec"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "e45a2f52-ab73-4008-9355-422c4e437386",
+    "pad_map": {
+        "70297245-4516-4532-8e80-fb0085a8dcb1": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "cae56502-b356-48e9-a3be-da0f80e94c1d": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "f397f2d3-2678-43fe-9238-3c2c9590e125": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "4850b426-50f3-4c76-b635-15a988e8e00f",
+    "value": [
+        false,
+        ""
+    ]
+}

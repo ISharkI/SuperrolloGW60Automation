@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Generic Punch Through Resistor",
+    "pins": {
+        "1837f73c-d54b-4991-94b7-101a7642d729": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "c8d382f3-826e-4b39-844b-39c71cd7b877": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2ea17181-094e-4d47-9c43-34a8df4f4d2d"
+}

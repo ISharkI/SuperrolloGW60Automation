@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "Generic Button"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "96036057-6284-4b31-a8cf-ce9dc5955d8a",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b487bee9-7636-4bf6-932b-4a72e50de9aa",
+    "pad_map": {
+        "1969e936-c00f-4230-a6cd-44f99f9909e7": {
+            "gate": "a53f8641-09f0-4831-8ea1-3adeb3bd75bc",
+            "pin": "01f37ddc-591d-4651-9ecc-16b56edb90ac"
+        },
+        "2427f2b2-bfd7-4beb-abd1-029e7524e9fa": {
+            "gate": "a53f8641-09f0-4831-8ea1-3adeb3bd75bc",
+            "pin": "e5e2f75a-d95a-41ac-9f9e-d05a3698d1d5"
+        },
+        "47684dc9-79d3-4b56-aea9-c5ce58ada372": {
+            "gate": "a53f8641-09f0-4831-8ea1-3adeb3bd75bc",
+            "pin": "788e6ff6-1c82-434a-bc4b-15630f1ffca3"
+        },
+        "b561edab-ac55-40e3-a382-96fcfec9c718": {
+            "gate": "a53f8641-09f0-4831-8ea1-3adeb3bd75bc",
+            "pin": "844715b2-1d37-40a8-91ba-9e5ced527682"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "95e19339-f0cb-4d03-9059-4c0a89263dc5",
+    "value": [
+        false,
+        ""
+    ]
+}

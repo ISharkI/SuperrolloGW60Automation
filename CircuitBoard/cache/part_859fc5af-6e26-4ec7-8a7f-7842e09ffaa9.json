@@ -1,0 +1,28 @@
+{
+    "MPN": [
+        false,
+        "LMS78_05-1.0"
+    ],
+    "base": "4850b426-50f3-4c76-b635-15a988e8e00f",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Gaptec"
+    ],
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "859fc5af-6e26-4ec7-8a7f-7842e09ffaa9",
+    "value": [
+        true,
+        "LMS78_xx"
+    ]
+}

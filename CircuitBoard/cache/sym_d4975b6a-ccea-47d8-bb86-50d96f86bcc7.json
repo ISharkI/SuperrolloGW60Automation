@@ -1,0 +1,129 @@
+{
+    "arcs": {},
+    "junctions": {
+        "0a61e8cd-c3ef-44f1-aa07-4703d76bf680": {
+            "position": [
+                -2500000,
+                -1000000
+            ]
+        },
+        "3c81e422-fae0-47b4-af9f-20dcd5a701b6": {
+            "position": [
+                2500000,
+                1000000
+            ]
+        },
+        "73191a1b-3b7a-4902-b8b6-0e916f912593": {
+            "position": [
+                2500000,
+                -1000000
+            ]
+        },
+        "9326643c-d088-43d8-a482-6b6f43772432": {
+            "position": [
+                -2500000,
+                1000000
+            ]
+        }
+    },
+    "lines": {
+        "9da36e7d-a6bd-4758-8089-4365e022dee9": {
+            "from": "9326643c-d088-43d8-a482-6b6f43772432",
+            "layer": 0,
+            "to": "3c81e422-fae0-47b4-af9f-20dcd5a701b6",
+            "width": 0
+        },
+        "a7cdd916-6196-4ca2-8411-447861f254c9": {
+            "from": "73191a1b-3b7a-4902-b8b6-0e916f912593",
+            "layer": 0,
+            "to": "0a61e8cd-c3ef-44f1-aa07-4703d76bf680",
+            "width": 0
+        },
+        "d053aefa-da28-4fdd-932d-56e91d61bb64": {
+            "from": "3c81e422-fae0-47b4-af9f-20dcd5a701b6",
+            "layer": 0,
+            "to": "73191a1b-3b7a-4902-b8b6-0e916f912593",
+            "width": 0
+        },
+        "f6515037-37d9-444a-8226-a7f69bc9e6ca": {
+            "from": "0a61e8cd-c3ef-44f1-aa07-4703d76bf680",
+            "layer": 0,
+            "to": "9326643c-d088-43d8-a482-6b6f43772432",
+            "width": 0
+        }
+    },
+    "name": "Generic Punch Through Resistor",
+    "pins": {
+        "1837f73c-d54b-4991-94b7-101a7642d729": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                5000000,
+                0
+            ]
+        },
+        "c8d382f3-826e-4b39-844b-39c71cd7b877": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -5000000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "da74231c-cc0b-45b0-85c6-9249e99c09e2": {
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "fbdfc49b-9ea7-4953-8046-7c807bf9b6de": {
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    -2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "2ea17181-094e-4d47-9c43-34a8df4f4d2d",
+    "uuid": "d4975b6a-ccea-47d8-bb86-50d96f86bcc7"
+}

@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "cd0bb687-a0e0-4145-a9ed-accb8dac174c": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "d5101bf2-8862-467a-903c-25f6dfa716ca"
+        },
+        "cd927132-5fb6-44ef-abd5-17923d9721e1": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "d5101bf2-8862-467a-903c-25f6dfa716ca"
+        }
+    },
+    "manufacturer": "",
+    "name": "Dual Optocoupler",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "3f0ec6ec-d9bd-4883-8c57-e2f3929f3538"
+}

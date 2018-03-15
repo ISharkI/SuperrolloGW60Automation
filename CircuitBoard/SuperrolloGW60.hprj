@@ -1,0 +1,17 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "board_filename": "board.json",
+    "name": "SuperrolloGW60",
+    "pool_cache_directory": "cache",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "Bring the Superrollo GW60 to the IOT",
+    "type": "project",
+    "uuid": "aaf8850b-bfd8-4010-988a-a4b7ed34775a",
+    "vias_directory": "vias"
+}

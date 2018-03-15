@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "Generic Punch Through Resistor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "5fe91db9-ea49-43c8-9f5a-8b3fbe79d266",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1daf2479-c6b1-4fea-a857-6dc8932c0a95",
+    "pad_map": {
+        "5525d6fa-3e12-4c35-af23-5518c8e78544": {
+            "gate": "73071ba9-d05a-4ae1-b4fb-53b1bd6e838a",
+            "pin": "c8d382f3-826e-4b39-844b-39c71cd7b877"
+        },
+        "f005cc79-3913-4c29-aa8a-f1978967b298": {
+            "gate": "73071ba9-d05a-4ae1-b4fb-53b1bd6e838a",
+            "pin": "1837f73c-d54b-4991-94b7-101a7642d729"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f88ba831-f571-422d-9cce-d55c3a7aed9c",
+    "value": [
+        false,
+        ""
+    ]
+}

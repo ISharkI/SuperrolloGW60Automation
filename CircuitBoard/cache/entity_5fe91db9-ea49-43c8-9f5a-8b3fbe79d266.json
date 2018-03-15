@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "73071ba9-d05a-4ae1-b4fb-53b1bd6e838a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2ea17181-094e-4d47-9c43-34a8df4f4d2d"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic Punch Through Resistor",
+    "prefix": "",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5fe91db9-ea49-43c8-9f5a-8b3fbe79d266"
+}

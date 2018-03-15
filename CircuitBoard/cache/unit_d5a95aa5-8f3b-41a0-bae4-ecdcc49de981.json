@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Generic Button",
+    "pins": {
+        "01f37ddc-591d-4651-9ecc-16b56edb90ac": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Out2",
+            "swap_group": 0
+        },
+        "788e6ff6-1c82-434a-bc4b-15630f1ffca3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "In2",
+            "swap_group": 0
+        },
+        "844715b2-1d37-40a8-91ba-9e5ced527682": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Out1",
+            "swap_group": 0
+        },
+        "e5e2f75a-d95a-41ac-9f9e-d05a3698d1d5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "In1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d5a95aa5-8f3b-41a0-bae4-ecdcc49de981"
+}

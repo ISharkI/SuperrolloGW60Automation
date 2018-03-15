@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Single Optocoupler",
+    "pins": {
+        "01caab95-5fea-416a-90e2-b1decc1f65a8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "279c04f7-b66a-44cb-8e17-8b100c3f826c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "E",
+            "swap_group": 0
+        },
+        "350296dd-83e3-472a-9526-17be7bff5019": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "5e5d0c57-67f4-48cb-9852-9cdaa907efaf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d5101bf2-8862-467a-903c-25f6dfa716ca"
+}
