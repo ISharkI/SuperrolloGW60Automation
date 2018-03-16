@@ -3,8 +3,8 @@
 #include "FS.h" // Allow to store variable
 
 // WiFi
-const char* ssid = "Haifischbecken";
-const char* wifi_password = "nsJ83boWhyHXW9cnKOx0uIRUlydHj3XwZMF7k74k0x6foQyyPv1JFr2fQ4BCFLs";
+const char* ssid = "WIFI";
+const char* wifi_password = "PASSWORD";
 WiFiClient wifiClient;
 
 // Variables
